@@ -1,0 +1,4 @@
+1. checkout - git checkout .
+2. reset - git reset soft previous_commit_id
+           git reset hard previous_commit_id
+3. revert - git revert same_commit_id
