@@ -1,0 +1,4 @@
+working stages of git -
+1. working directory
+2. staging area
+3. local repository
