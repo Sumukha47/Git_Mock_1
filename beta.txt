@@ -1,5 +1,7 @@
-1:git branch
-2:git branch name 
-3:git switch  branch 
-4:git push alias name branchname
-5:git branch -r
+1:Initialization
+2:Configuration 
+3:add 
+4:commit
+5:establish connection
+6:push 
+7:pull
