@@ -1,0 +1,5 @@
+1:git branch
+2:git branch name 
+3:git switch  branch 
+4:git push alias name branchname
+5:git branch -r
