@@ -1,0 +1,5 @@
+1:git checkout filename 
+2:git reset filename
+3:git  reset --mixed filename
+4:git reset --soft filename
+5:git reset --hard filename
