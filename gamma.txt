@@ -1,0 +1,4 @@
+1:git tag
+2:git tag tagname or v1.0
+3:git tag -a versionname -m description
+4: git push origin/alias name tag_name 
