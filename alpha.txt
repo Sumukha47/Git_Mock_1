@@ -1,7 +1,0 @@
-1:Initialization
-2:Configuration
-3:Add 
-4:commit 
-5:establish connection
-6:push
-7:pull
